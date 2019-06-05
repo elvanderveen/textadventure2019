@@ -97,7 +97,10 @@ namespace ZuulCS
 				case "quit":
 					wantToQuit = true;
 					break;
-			}
+                case "look":
+                    currentRoom();
+                    break;
+            }
 
 			return wantToQuit;
 		}
