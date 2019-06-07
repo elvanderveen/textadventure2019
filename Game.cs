@@ -98,7 +98,7 @@ namespace ZuulCS
 					wantToQuit = true;
 					break;
                 case "look":
-                    currentRoom();
+                    Console.WriteLine(currentRoom.getLongDescription());
                     break;
             }
 
