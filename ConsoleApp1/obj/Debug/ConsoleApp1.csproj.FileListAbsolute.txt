@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\School\2019_Jaar_01_periode_04\Rik Teerling\Text_adventure\src\zuul-cs\Zuul\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\user\Desktop\School\2019_Jaar_01_periode_04\Rik Teerling\Text_adventure\src\zuul-cs\Zuul\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\user\Desktop\School\2019_Jaar_01_periode_04\Rik Teerling\Text_adventure\src\zuul-cs\Zuul\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\user\Desktop\School\2019_Jaar_01_periode_04\Rik Teerling\Text_adventure\src\zuul-cs\Zuul\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\School\2019_Jaar_01_periode_04\Rik Teerling\Text_adventure\src\zuul-cs\Zuul\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\School\2019_Jaar_01_periode_04\Rik Teerling\Text_adventure\src\zuul-cs\Zuul\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\user\Desktop\School\2019_Jaar_01_periode_04\Rik Teerling\Text_adventure\src\zuul-cs\Zuul\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
