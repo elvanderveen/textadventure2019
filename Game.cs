@@ -6,12 +6,14 @@ namespace ZuulCS
 	{
 		private Parser parser;
 		private Room currentRoom;
-
+        //private Player;
 		public Game ()
 		{
 			createRooms();
 			parser = new Parser();
+
 		}
+
 
 		private void createRooms()
 		{
