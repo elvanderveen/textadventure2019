@@ -6,7 +6,7 @@ namespace ZuulCS
 	{
 		private Parser parser;
 		private Room currentRoom;
-        //private Player;
+        private Player player;
 		public Game ()
 		{
 			createRooms();
