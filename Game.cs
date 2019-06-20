@@ -5,7 +5,6 @@ namespace ZuulCS
 	public class Game
 	{
 		private Parser parser;
-		private Room currentRoom;
         private Player player;
 		public Game ()
 		{
@@ -101,6 +100,9 @@ namespace ZuulCS
 					break;
                 case "look":
                     Console.WriteLine(currentRoom.getLongDescription());
+                    break;
+                case "playerHealth":
+                    Console.WriteLine(currentHealth.getLongDescription());
                     break;
             }
 
