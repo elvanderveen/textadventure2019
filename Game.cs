@@ -71,6 +71,7 @@ namespace ZuulCS
 			Console.WriteLine("Type 'help' if you need help.");
 			Console.WriteLine();
 			Console.WriteLine(currentRoom.getLongDescription());
+            Console.WriteLine(currentHealth.getLongDescription());
 		}
 
 		/**
@@ -101,7 +102,7 @@ namespace ZuulCS
                 case "look":
                     Console.WriteLine(currentRoom.getLongDescription());
                     break;
-                case "playerHealth":
+                case "health":
                     Console.WriteLine(currentHealth.getLongDescription());
                     break;
             }

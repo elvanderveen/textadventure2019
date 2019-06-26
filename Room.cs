@@ -15,7 +15,7 @@ namespace ZuulCS
 		public Room(string description)
 		{
 			this.description = description;
-			exits = new Dictionary<string, Room>();
+			exits = new Dictionary<string, Room>(); 
 		}
 
 		/**
